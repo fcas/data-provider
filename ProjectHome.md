@@ -1,0 +1,1 @@
+Projeto da disciplina de Programação Distribuída, da Universidade Federal do Rio Grande do Norte; curso de Engenharia de Software.
